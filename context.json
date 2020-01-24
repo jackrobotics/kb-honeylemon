@@ -1,0 +1,5 @@
+{
+    "baudrate" : 921600,
+    "cflags": ["-I\"{board}/include\"","-DESP_PLATFORM"],
+    "libflags" : [ ]
+}
