@@ -8,5 +8,5 @@ module.exports = {
   email: "sonthaya.b@honey.co.th",
   git: "https://github.com/JackRoboticS/kb-honeylemon",
   image: "/static/board.png",
-  version: "1.0.0",
+  version: "0.1.0",
 };
