@@ -6,7 +6,7 @@ module.exports = {
   author: "Sonthaya Boonchan",
   website: "https://lemon.honey.co.th",
   email: "sonthaya.b@honey.co.th",
-  git: "https://github.com/JackRoboticS/kb-honeylemon",
+  git: "https://github.com/JackRoboticS/kb-honeylemon/",
   image: "/static/board.png",
   version: "0.1.0",
 };
