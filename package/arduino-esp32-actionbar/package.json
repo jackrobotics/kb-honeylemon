@@ -10,7 +10,7 @@
   "main": "./dist/arduino-esp32-actionbar.common.js",
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vuetify": "^1.5.22"
   },
   "devDependencies": {
